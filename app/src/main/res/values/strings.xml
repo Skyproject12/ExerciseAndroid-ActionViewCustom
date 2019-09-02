@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ActionBar</string>
+    <string name="menu_2">menu_2</string>
+    <string name="menu_1">menu_1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_activity">this activity</string>
+    <string name="search_hint">Masukkan kata</string>
+</resources>
